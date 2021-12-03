@@ -1,0 +1,10 @@
+let assume n=4
+let result=1
+if n==0
+	exit
+
+result=result*n
+n=n-1
+goto step3
+
+
